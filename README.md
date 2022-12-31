@@ -1,1 +1,1 @@
-echo "# quiz-app"
+# quiz-app
